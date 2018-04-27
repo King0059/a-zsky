@@ -1,0 +1,35 @@
+@charset "utf-8";
+/* CSS Document */
+html{
+	margin: 0;
+	padding: 0;
+}
+body{
+	background-image: url(../images/A-ZSKYlogo.png);
+	text-align: center;
+	vertical-align: middle;
+	font-family: Gotham, "Helvetica Neue", Helvetica, Arial, "sans-serif";
+}
+.welcome{
+	background: #FFFFFF;
+	padding-top: 24px;
+	position: absolute;
+	top: 50%;
+	left: 50%;
+	margin-top: -200px;
+	margin-left: -400px;
+	width: 800px;
+	height: 200px;
+	border-radius: 35px;
+}
+h1{
+	font-size: 66px;
+	text-transform:uppercase;
+	margin:20px 0;
+	line-height:1;
+}
+p{
+	font-weight: 500;
+	font-size: 20px;
+	margin:0;
+}
